@@ -69,7 +69,7 @@
                     <article class="about-card" data-aos="fade-up" data-aos-delay="100">
                         <span class="about-card-icon" aria-hidden="true"><i class="fa-solid fa-user-tie"></i></span>
                         <div class="about-copy">
-                            <p>Saya seorang lulusan D3 Manajemen Informatika dari Politeknik Negeri Medan dengan IPK 3.60 yang memiliki ketertarikan mendalam pada Web Development, pengelolaan database, serta administrasi dan pengolahan data. Saya memiliki pengalaman praktis sebagai staf administrasi dan IT Support melalui magang di Biro Administrasi Pembangunan Setda Provsu.</p>
+                            <p>Saya seorang lulusan D4 Manajemen Informatika dari Politeknik Negeri Medan dengan IPK 3.60 yang memiliki ketertarikan mendalam pada Web Development, pengelolaan database, serta administrasi dan pengolahan data. Saya memiliki pengalaman praktis sebagai staf administrasi dan IT Support melalui magang di Biro Administrasi Pembangunan Setda Provsu.</p>
                             <p>Didukung oleh penguasaan teknologi seperti HTML, CSS, JavaScript, PHP, Laravel, MySQL, dan Microsoft Office, saya siap menghadirkan solusi digital yang fungsional dan terstruktur dengan baik.</p>
                         </div>
                     </article>
