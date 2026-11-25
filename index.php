@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#090a10">
     <meta name="description" content="Portofolio Chrisandi Jeremia Alonso Sianipar, lulusan Manajemen Informatika.">
     <title>Chrisandi Jeremia Alonso Sianipar - Portofolio</title>
-    <link rel="icon" type="image/png" href="CH.jpg">
+    <link rel="icon" type="image/png" href="img/favicon/Logo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
