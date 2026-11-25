@@ -67,10 +67,10 @@ button { font: inherit; }
 .about-heading h2 { margin: 0; font-size: clamp(30px,3.5vw,40px); line-height: 1.2; letter-spacing: -.045em; }
 .about-heading .heading-underline { margin-top: 14px; }
 .about-grid { display: grid; grid-template-columns: minmax(0,760px); justify-content: center; gap: 18px; }
-.about-card { display: grid; grid-template-columns: 58px minmax(0,1fr); align-items: center; gap: 19px; min-height: 148px; padding: 28px; border: 1px solid rgba(175,160,255,.15); border-radius: 17px; background: linear-gradient(135deg,#191824,#11121a 80%); box-shadow: 0 12px 35px rgba(0,0,0,.18); }
+.about-card { display: grid; grid-template-columns: 1fr; justify-items: center; gap: 19px; min-height: 148px; padding: 28px; border: 1px solid rgba(175,160,255,.15); border-radius: 17px; background: linear-gradient(135deg,#191824,#11121a 80%); box-shadow: 0 12px 35px rgba(0,0,0,.18); }
 .about-card-icon { width: 54px; height: 54px; display: grid; place-items: center; border: 1px solid rgba(171,145,255,.12); border-radius: 50%; background: #1c1a2c; color: #d3c7ff; font-size: 20px; }
 .about-copy { padding: 1px 0; }
-.about-copy > p { margin: 0; color: #c1bfca; font-size: 14px; line-height: 1.8; }
+.about-copy > p { margin: 0; color: #c1bfca; font-size: 14px; line-height: 1.8; text-align: justify; text-justify: inter-word; }
 .about-copy > p + p { margin-top: 10px; }
 .about-copy h2, .section-title h2, .contact-copy h2 { margin: 0; font-size: 28px; line-height: 1.25; font-weight: 800; letter-spacing: -.035em; }
 
